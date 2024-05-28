@@ -14,8 +14,6 @@
 ![forks](https://img.shields.io/github/forks/Snailclimb/JavaGuide)
 ![issues](https://img.shields.io/github/issues/Snailclimb/JavaGuide)
 
-[GitHub](https://github.com/Snailclimb/JavaGuide) | [Gitee](https://gitee.com/SnailClimb/JavaGuide)
-
 </div>
 
 > - **面试专版**：准备 Java 面试的小伙伴可以考虑面试专版：**[《Java 面试指北 》](./zhuanlan/java-mian-shi-zhi-bei.md)** (质量很高，专为面试打造，配合 JavaGuide 食用)。
