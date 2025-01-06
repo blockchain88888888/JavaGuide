@@ -3,8 +3,6 @@
 - **[JavaGuide 在线阅读网站（新版，推荐 👍）](https://javaguide.cn/)**
 - [JavaGuide 在线阅读版（老版）](https://snailclimb.gitee.io/javaguide/#/)
 
-[<img src="https://oss.javaguide.cn/xingqiu/xingqiu.png" style="width:850px;margin: 0 auto" />](https://sourl.cn/e7ee87)
-
 <div align="center">
 
 [![logo](https://oss.javaguide.cn/github/javaguide/csdn/1c00413c65d1995993bf2b0daf7b4f03.png)](https://github.com/Snailclimb/JavaGuide)
